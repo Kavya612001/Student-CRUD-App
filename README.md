@@ -3,8 +3,10 @@ A simple student app with all the CRUD operations
 
 ## Requirements
 
-JDK 1.8
-Maven
+- JDK 1.8
+- Maven
+- MySql
+- Code Editor (Preferably IntelliJ)
 
 ## Run the project
 ```
