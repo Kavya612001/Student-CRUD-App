@@ -1,5 +1,5 @@
 # Student-CRUD-App
-A simple student app with all the CRUD operations
+A simple student app with all the CRUD operations using HTML, CSS and Spring Boot
 
 ## Requirements
 
